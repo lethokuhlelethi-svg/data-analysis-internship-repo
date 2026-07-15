@@ -240,7 +240,7 @@ jupyter notebook notebooks/week1_online_retail.ipynb
 
 ## 📝 License
 
-This project was completed as part of the AnalystLab Africa 8-Week Data Analytics Internship Programme.
+This project was completed as part of the AnalystLab Africa Week 1 and 2 Internship program
 
 ---
 
