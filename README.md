@@ -1,4 +1,4 @@
-# 📊 AnalystLab Africa — Data Analytics Internship week 1
+# 📊 AnalystLab Africa — Data Analytics Internship week 1 and week 2
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas)
